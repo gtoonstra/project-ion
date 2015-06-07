@@ -1,2 +1,2 @@
 # project-ion
-Tutorials, scripts, tools and links that show you how to make your aerial data reports, diagrams and charts more compelling and informative.
+Tutorials, scripts, videos, tools and links to blogs that show you how to make your aerial data more compelling and informative by improving the visual quality of your reports, images, diagrams and charts.
